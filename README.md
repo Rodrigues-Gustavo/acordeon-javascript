@@ -8,14 +8,14 @@
 
 <h1 align="center">VISÃO GERAL</h1>
 
-<P align="center">Acordeon feito com intuito de manipular o DOM e usar eventos no javascript</p>
+<P align="center">Acordeon feito com intuito de simular um FAQ de perguntas recentes</p>
 <h1 align="center"> TESTAR</h1>
 
-<a href="">testar projeto</a>
+<a href="https://rodrigues-gustavo.github.io/acordeon-javascript/">testar projeto</a>
 
 <div align="center">
- 
 
+ ![rodrigues-gustavo github io-screenshot (3)](https://user-images.githubusercontent.com/102608021/194873416-827781a3-cd3d-4f29-8f7d-53f0aa30727f.png)
 
 </div>
 
