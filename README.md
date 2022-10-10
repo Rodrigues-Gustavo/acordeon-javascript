@@ -13,7 +13,7 @@
 
 <a href="https://rodrigues-gustavo.github.io/acordeon-javascript/">testar projeto</a>
 
-<div align="center">
+<div>
 
  ![rodrigues-gustavo github io-screenshot (3)](https://user-images.githubusercontent.com/102608021/194873416-827781a3-cd3d-4f29-8f7d-53f0aa30727f.png)
 
